@@ -1,2 +1,3 @@
 # bestrepoever
-second repository
+second repository.
+This is my first project on git.
